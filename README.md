@@ -8,3 +8,6 @@ As a data scientist, I organize, clean, uncover patterns, meaningful insights an
 
 In this project, I was tasked hypothetically by the Head of the Fundraising at the charity organization “Education for All” to present insights from donation in order to come up with fundraising strategies and increase donations.
 The datasets used in this project were gotten from Entrylevel Data Analyst program. 
+
+
+## Part 3- ANZ Australia Exploratory Analysis
