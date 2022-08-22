@@ -10,4 +10,4 @@ In this project, I was tasked hypothetically by the Head of the Fundraising at t
 The datasets used in this project were gotten from Entrylevel Data Analyst program. 
 
 
-## Part 3- ANZ Australia Exploratory Analysis
+## Part 2- ANZ Australia Exploratory Analysis
