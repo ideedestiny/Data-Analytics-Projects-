@@ -11,3 +11,4 @@ The datasets used in this project were gotten from Entrylevel Data Analyst progr
 
 
 ## Part 2- ANZ Australia Exploratory Analysis
+The dataset used in this project were gotten from the ANZ_Australia virtual case experience(Forage). Insights and recommendations were drawn from the dataset after exploration. Python and its libraries like pandas, numpy, plotly, seaborn are the tools used in this project. 
